@@ -1,5 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK_HERE)
 
+know you can also use in th evs code 
+
 # 🎯 Face Detection & Recognition System
 
 A complete end-to-end **Face Detection and Recognition** pipeline built in Python, running on **Google Colab** with GPU acceleration. The system can detect faces in images and videos, register known individuals into a persistent database, and identify them in new photos — all using pre-trained deep learning models with zero training required.
